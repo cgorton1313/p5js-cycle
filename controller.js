@@ -1,9 +1,9 @@
 let sketches = [
-    { file: 'a.js', author: 'Sarah Spetter' },
-    { file: 'b.js', author: 'Mattea Kaiser' },
-    { file: 'c.js', author: 'Sarah Riley' },
-    { file: 'd.js', author: 'Molly Tittemore' },
-    { file: 'e.js', author: 'Sarah Riley' },
+    { file: 'a.js', author: '.Sarah Spetter.' },
+    { file: 'b.js', author: '.Mattea Kaiser.' },
+    { file: 'c.js', author: '.Sarah Riley.' },
+    { file: 'd.js', author: '.Molly Tittemore.' },
+    { file: 'e.js', author: '.Sarah Riley.' },
 ];
 
 let cW = window.innerWidth;
